@@ -1,1 +1,1 @@
-print('NDVI main branch') 
+print('NDVI core logic from main') 
