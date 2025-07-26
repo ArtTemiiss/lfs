@@ -1,1 +1,1 @@
-print('NDVI main branch') 
+print('NDVI with error handling') 
