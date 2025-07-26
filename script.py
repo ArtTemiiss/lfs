@@ -1,1 +1,1 @@
-print('NDVI core logic from main') 
+print('NDVI with error handling')
