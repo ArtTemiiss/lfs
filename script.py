@@ -1,1 +1,1 @@
-print('NDVI with error handling')
+"print('Unfinished NDVI script')"
